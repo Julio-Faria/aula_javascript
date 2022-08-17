@@ -1,10 +1,35 @@
+function clicou(){
+    document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>";
+    
+    //alert("Obrigado por Clicar");
+}
+
+function redirecionar(){
+    window.open("https://github.com/Julio-Faria"); //redirecionamento
+}
+
+
+
+
+
+
+
+
+
+
+
+/*var nome = "julio";
+alert("Bem vindo " + nome);
+*/
+
+/*
 var d = new Date();
     alert(d.getDay);
     alert(d.getMonth);
     alert(d.getFullYear);
     alert(d.getHours);
     alert(d.getMinutes)
-
+*/
 
 /*
 var count;
